@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HelloWorld</string>
+    <string name="Calculate">Calculate</string>
+    <string name="i_agree">I agree</string>
 </resources>
